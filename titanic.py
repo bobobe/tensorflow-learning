@@ -144,4 +144,4 @@ def train():
     #                                "Survived":pred})
     #     submission.to_csv("titanic-submission.csv",index = False)
 
-
+print
