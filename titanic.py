@@ -145,3 +145,4 @@ def train():
     #     submission.to_csv("titanic-submission.csv",index = False)
 
 print
+aa
